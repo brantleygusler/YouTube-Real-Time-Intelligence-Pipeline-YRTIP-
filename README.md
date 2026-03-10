@@ -16,6 +16,9 @@ generates AI-style stream recaps.
 - **Advanced Insights**: Influencer network, AI-style stream summaries
 - **Interactive Dashboard**: Built with Streamlit
 
+## Technologies 
+Python, pytchat, pandas, scikit-learn, NLTK, NetworkX, Streamlit
+
 ## Installation
 
 ```bash
