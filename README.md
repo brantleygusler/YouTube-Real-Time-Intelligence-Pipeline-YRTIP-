@@ -76,7 +76,7 @@ README.md
 
 Clone the repository
 
-git clone https://github.com/yourusername/youtube-chat-intelligence-pro
+git clone 
 
 cd youtube-chat-intelligence-pro
 
