@@ -1,4 +1,4 @@
-# YouTube Chat Intelligence Pro
+# YouTube-Real-Time-Intelligence-Pipeline-YRTIP
 
 **Transform livestream chat into actionable audience insights**
 
