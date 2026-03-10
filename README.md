@@ -207,18 +207,3 @@ Machine learning models for predicting engagement spikes
 Live dashboards during active streams
 
 ---
-
-## Portfolio Value
-
-This project demonstrates skills in:
-
-Data scraping  
-Natural language processing  
-Machine learning  
-Behavioral analytics  
-Network analysis  
-Data visualization  
-
-It represents a full end-to-end analytics pipeline for social media audience intelligence.
-
----
